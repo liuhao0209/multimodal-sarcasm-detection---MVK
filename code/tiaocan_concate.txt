@@ -1,0 +1,3 @@
+
+learning rate=0.001 | fc dropout=0 |  weight decay=0
+learning rate=0.001 | fc dropout=0 |  weight decay=0
